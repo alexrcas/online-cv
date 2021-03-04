@@ -73,19 +73,30 @@ education:
       details: |
         
 experiences:
-    - role: Becario Full Stack Developer
-      time: 2019 - Actualidad
+
+    - role: Ingeniero de software
+      time: 2020 - Actualidad
+      company: Avantic Estudio de Ingenieros
+      details: |
+        Diseño y desarrollo de software empresarial, para la administración pública y aplicaciones móviles, utilizando tecnologías híbridas y nativas.
+        Los principales proyectos en los que he trabado son:
+        - <b>SUSTRATO</b> (Sistema Unificado para la Tramitación Pública): sistema de tramitación para la Autoridad Portuaria de Tenerife (Java Spring, Oracle SQL, Javascript)
+        - <b>FredOlsen App</b>: aplicación de Fred Olsen para Android e iOS.
+        - <b>Volcano</b>: desarrollo de aplicación para un puesto de venta desatendido para realizar la compra de billetes y experiencias en el teleférico del Teide.
+        
+    - role: Full Stack Developer
+      time: 2019 - 2020
       company: MetroTenerife (Metropolitano de Tenerife, S.A.)
       details: |
-        Alterno mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
-        Mis principales actividades en la empresa son:
+        Compaginé mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
+        Mis principales actividades en la empresa fueron:
+        - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b> (Sistema de Monitorización de Velocidad de Embarcado).
+          Colaboración en el desarrollo del back-office de la aplicación en todo el stack (base de datos, back-end y front-end), implementando
+          nuevas funcionalidades o corrigiendo u optimizando otras ya existentes.
         - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero con <b>Java (Spring)</b> para sustituir diversas aplicaciones obsoletas y unificar
           el trabajo de todos los departamentos de la empresa, así como obtener indicadores de interés para la gerencia.
           El proyecto consistió en una fase de ETL para estudiar e integrar las diferentes fuentes de datos son SQL Integration Services, actividad que realicé bajo la supervisión de mi tutor
           debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end que realicé con mayor autonomía.
-        - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b> (Sistema de Monitorización de Velocidad de Embarcado).
-          Colaboración en el desarrollo del back-office de la aplicación en todo el stack (base de datos, back-end y front-end), implementando
-          nuevas funcionalidades o corrigiendo u optimizando otras ya existentes.
         - <b>Desarrollo de formularios .NET</b> para la intranet de la empresa, usados cada día por todas las oficinas y sus clientes.
     - role: Becario de TI
       time: 2018 - 2019
@@ -93,13 +104,13 @@ experiences:
       details: |
         Compaginé mi último año de estudios del grado con una beca de colaboración
         en la Oficina de Software Libre. Mis tareas principales consistían en:
-          - Velar por el correcto funcionamiento de las aulas de informática
-          y <b>solucionar incidencias técnicas</b> en equipos individuales, servidores y
-          equipos de red.
           - <b>Desarrollo de una web</b>, plugins y temas personalizados en Wordpress desde cero.
           - Atender y prestar <b>servicio técnico u orientación</b> a cualquier persona
           que se dirijiese a la oficina siempre que la consulta estuviese relacionada
           con <b>Linux y software libre</b>.
+          - Velar por el correcto funcionamiento de las aulas de informática
+          y <b>solucionar incidencias técnicas</b> en equipos individuales, servidores y
+          equipos de red.
           - <b>Tutorizar</b> un curso online sobre <b>Linux</b> al resto de becarios, atendiendo
           sus dudas, así como <b>impartir algunas charlas</b> técnicas y divulgativas.
           - Colaborar en la <b>organización de eventos y congresos</b>, como el <b>PyDay Tenerife</b> o
@@ -107,8 +118,7 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Siempre estoy realizando proyectos personales, tanto para divertirme como para seguir aprendiendo y mantenerme actualizado. Procurararé irlos
-      enlazando según los vaya documentando.
+      Estos son algunos de mis proyectos personales, tanto por motivos académicos como por iniciativa personal:
     assignments:
       - title: Cloud-detector
         link: "https://github.com/alexrcas/cloud-detector/blob/master/README.md"
@@ -121,14 +131,11 @@ projects:
 
       - title: GreenHouse
         tagline: "Monitorización de temperatura, humedad, humedad del suelo y agua empleada para huertos caseros, con control inteligente automático del riego y visualización web"
-     
-      - title: WiMail
-        tagline: "Sistema de aviso por correo electrónico al recibir cartas en el buzón de casa"
 
 publications:
     title: Cursos
     intro: |
-      Me encanta aprender nuevas habilidades o mejorar las existentes. Estos son algunos de los cursos que he hecho:
+      Me encanta aprender nuevas habilidades y mejorar las existentes. Estos son algunos de los cursos que he hecho:
     papers:
     
       - title: Java de novato a experto (Spring)
@@ -140,6 +147,11 @@ publications:
         link:
         authors: online
         conference: 25 horas
+        
+      - title: Desarrollo de apps móviles con Ionic
+        link:
+        authors: online
+        conference: 38 horas
 
       - title: NodeJS. MVC y APIs REST
         link:
@@ -192,16 +204,16 @@ skills:
       - name: C / C++ / C#
         level: 85%
 
-      - name: NodeJS
+      - name: NodeJS (Express, Moleculer)
         level: 75%
       
       - name: Python (Flask, Django)
         level: 75%
 
-      - name: Java (Spring)
+      - name: Java EE (Spring)
         level: 70%
         
-      - name: MySQL
+      - name: SQL
         level: 70%
         
       - name: MongoDB
@@ -230,10 +242,20 @@ skills:
         level: 85%
         
       - name: Vue.js
-        level: 25%
+        level: 50%
 
       - name: React / React Native
         level: 25%
+        
+    móvil:
+      - name: Ionic
+        level: 80%
+        
+      - name: Android (Java)
+        level: 65%
+        
+      - name: iOS (Objective-C)
+        level: 40%
 
     tools:
       - name: Git
