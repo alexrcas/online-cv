@@ -48,6 +48,11 @@ jQuery(document).ready(function($) {
             $('.banner').toggleClass('fade');
         }, 2500)
     })
+
+    $('#fs-question').on('click', (e) => {
+        $('#fs-banner').removeClass('hidden');
+        $('#fs-banner').toggleClass('fade');
+    })
    
 
 });
