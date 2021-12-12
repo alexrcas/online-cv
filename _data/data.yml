@@ -75,7 +75,7 @@ education:
         
 experiences:
 
-    - role: Ingeniero de software
+    - role: Ingeniero de software - Desarrollador Full Stack
       time: 2020 - Actualidad
       company: Avantic Estudio de Ingenieros
       technologies: Java (Spring), Oracle SQL, JSP, Javascript, jQuery, Angular, Ionic, Bootstrap, Docker, Python, Git, Jira, OpenProject
@@ -86,14 +86,14 @@ experiences:
         - <b>FredOlsen App</b>: aplicación de Fred Olsen para Android e iOS.
         - <b>Volcano-TPV</b>: desarrollo de aplicación para un puesto de venta desatendido para realizar la compra de billetes y experiencias en el teleférico del Teide.
         
-    - role: Full Stack Developer
+    - role: Desarrollador Full Stack
       time: 2019 - 2020
       company: MetroTenerife (Metropolitano de Tenerife, S.A.)
       technologies: Java (Spring Boot), Oracle SQL, MariaDB, Javascript, jQuery, Python, Talend, Git, SQL Server Integration Services, .NET, Visual Basic
       details: |
         Compaginé mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
         Mis principales actividades en la empresa fueron:
-        - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b> (Sistema de Monitorización de Velocidad de Embarcado).
+        - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b>: (Sistema de Monitorización de Velocidad de Embarcado).
           Colaboración en el desarrollo del back-office de la aplicación, implementando
           nuevas funcionalidades o corrigiendo u optimizando otras ya existentes.
         - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero para sustituir diversas aplicaciones obsoletas y unificar
@@ -127,9 +127,6 @@ projects:
       - title: Proyecto de fin de máster
         link: "https://riull.ull.es/xmlui/handle/915/26083"
         tagline: "Aplicación para monitorización y tratamiento de pacientes con síndrome de intestino irritable (Calificado son Sobresaliente 10)."
-
-      - title: Proyecto de fin de máster
-        link: "https:"
 
       - title: Proyecto de fin de carrera
         link: "https://riull.ull.es/xmlui/handle/915/16580"
