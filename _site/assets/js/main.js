@@ -49,6 +49,7 @@ jQuery(document).ready(function($) {
         }, 2500)
     })
 
+    //question display
     $('#fs-question').on('click', (e) => {
         $('#fs-banner').removeClass('hidden');
         $('#fs-banner').toggleClass('fade');
