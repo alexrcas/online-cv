@@ -242,6 +242,7 @@ p {
     .level-title {
         font-size: 14px;
         margin-top: 0;
+        width: 100% !important;
         margin-bottom: 12px;
     }
     .level-bar {
@@ -273,6 +274,7 @@ p {
 
 h4 {
     margin-top: 35px;
+    margin-bottom: 25px !important;
     color: #024352;
 }
 
@@ -350,8 +352,21 @@ h4 {
     cursor: pointer;
 }
 
+.inline {
+    display: flex;
+    align-items: center;
+}
 
 @keyframes fade {
     0% {opacity: 0}
     100% {opacity: 1}
+}
+
+.skill-item {
+    margin-bottom: 0px !important;
+    padding: 10px !important;
+}
+
+.skill-item:nth-child(2n + 1) {
+    background-color: #f5f5f5;
 }

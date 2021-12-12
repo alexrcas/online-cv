@@ -78,7 +78,7 @@ experiences:
     - role: Ingeniero de software
       time: 2020 - Actualidad
       company: Avantic Estudio de Ingenieros
-      technologies: Java (Spring), Oracle SQL, JSP, Javascript, jQuery, Angular, Ionic, Bootstrap, Docker, Python, Jira, OpenProject
+      technologies: Java (Spring), Oracle SQL, JSP, Javascript, jQuery, Angular, Ionic, Bootstrap, Docker, Python, Git, Jira, OpenProject
       details: |
         Diseño y desarrollo de software empresarial, para la administración pública y aplicaciones móviles, utilizando tecnologías híbridas y nativas.
         Los principales proyectos en los que he trabado son:
@@ -89,7 +89,7 @@ experiences:
     - role: Full Stack Developer
       time: 2019 - 2020
       company: MetroTenerife (Metropolitano de Tenerife, S.A.)
-      technologies: Java (Spring Boot), Oracle SQL, MariaDB, Javascript, jQuery, Python, Talend, SQL Server Integration Services, .NET, Visual Basic
+      technologies: Java (Spring Boot), Oracle SQL, MariaDB, Javascript, jQuery, Python, Talend, Git, SQL Server Integration Services, .NET, Visual Basic
       details: |
         Compaginé mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
         Mis principales actividades en la empresa fueron:
@@ -233,117 +233,83 @@ publications:
 skills:
     title: Habilidades y competencias
 
-    back-end:
-      - name: C / C++ / C#
-        level: 85%
+    main-skills:
+        
+      - name: Java EE (Spring)
+
+      - name: Javascript
+
+      - name: SQL
+
+      - name: Angular
 
       - name: NodeJS (Express, Moleculer)
-        level: 75%
+
+      - name: REST
+
+      - name: Git
       
       - name: Python (Flask, Django)
-        level: 75%
 
-      - name: Java EE (Spring)
-        level: 70%
-        
-      - name: SQL
-        level: 70%
-        
-      - name: MongoDB
-        level: 70%
+      - name: Templates (JSP, Thymeleaf, Jinja, EJS)
 
-      - name: Ruby
-        level: 50%
-        
-      - name: Qt
-        level: 50%
-
-      - name: .NET
-        level: 50%
-
-      - name: PHP
-        level: 40%
+      - name: Ionic
     
-    front-end:
-      - name: Javascript
-        level: 85%
+    mid-skills:
 
-      - name: HTML5
-        level: 85%
+      - name: C / C++ / C#
 
-      - name: CSS3 (SaSS)
-        level: 85%
-        
+      - name: MongoDB
+
       - name: Vue.js
-        level: 50%
 
       - name: React / React Native
-        level: 25%
-        
-    mobile:
-      - name: Ionic
-        level: 80%
-        
-      - name: Android (Java)
-        level: 65%
-        
-      - name: iOS (Objective-C)
-        level: 40%
 
-    tools:
-      - name: Git
-        level: 80%
-
-      - name: Ansible
-        level: 70%
-      
-      - name: Bash
-        level: 70%
-
-      - name: Docker
-        level: 60%
-
-    hardware:
-      - name: Arduino
-        level: 90%
-
-      - name: Verilog
-        level: 80%
-      
-      - name: Lenguaje ensamblador
-        level: 70%
-
-      - name: ROS (Robot Operating System)
-        level: 50%
-
-    others:
-
-      - name: Linux
-        level: 90%
+      - name: CSS3 (SaSS)
 
       - name: Unity
-        level: 90%
 
-      - name: Redes
-        level: 70%
+      - name: Ruby
+        
+      - name: Qt
 
-      - name: Posicionamiento SEO
-        level: 60%
+      - name: .NET
 
-      - name: Wordpress
-        level: 60%
+      - name: Android (Java)
+        
+      - name: Java Swing
+
+      - name: Bash
+
+      - name: SOAP
+
+      - name: Docker
 
       - name: Jekyll
-        level: 50%
+
+      - name: ETL (Talend, Pentaho, Microsoft SQL Server)
+
+      - name: PHP
+
+      - name: Linux
+
+      - name: Arduino
         
-      - name: ETL (Microsoft Integration Services)
-        level: 40%
+    low-skills:
+
+      - name: iOS (Objective-C)
+
+      - name: Ansible
+      
+      - name: Lenguaje ensamblador
+
+      - name: Posicionamiento SEO
 
       - name: TensorFlow
-        level: 39%
 
       - name: WebGL
-        level: 35%
+
+      - name: Computación paralela (MPI)
 
 
 footer: >

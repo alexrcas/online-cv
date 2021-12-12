@@ -9,124 +9,46 @@
     </span>
     {{ skills.title }}
   </h2>
-  <div class="caption"><div class="square-g cap"></div><span><b>Puedo desenvolverme solo</b></span></div>
-<div class="caption"><div class="square-y cap"></div><span><b>Estoy familiarizado</b></span></div>
-<div class="caption"><div class="square-r cap"></div><span><b>Tengo nociones básicas</b></span></div>
 
-  <h4 id="start-grow">Back-end / otros</h4>
+
+  <h4 id="start-grow"><div class="square-g cap"></div>Habilidades principales</h4>
   <div class="skillset">
 
-    {% for skill in skills.back-end %}
-    <div class="item">
+    {% for skill in skills.main-skills %}
+    <div class="item skill-item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
     </div><!--//item-->
     {% endfor %}
-
   </div>
 
-  <h4>Front-end</h4>
+
+  <h4 id="start-grow"><div class="square-y cap"></div>Puedo desenvolverme solo</h4>
   <div class="skillset">
 
-    {% for skill in skills.front-end %}
-    <div class="item">
+    {% for skill in skills.mid-skills %}
+    <div class="item skill-item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
     </div><!--//item-->
     {% endfor %}
-
   </div>
-  
-  
-  <h4>Móvil</h4>
+
+
+  <h4 id="start-grow"><div class="square-r cap"></div>Tengo algunas nociones</h4>
   <div class="skillset">
 
-    {% for skill in skills.mobile %}
-    <div class="item">
+    {% for skill in skills.low-skills %}
+    <div class="item skill-item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
     </div><!--//item-->
     {% endfor %}
-
   </div>
 
-
-  <h4>Herramientas / apoyo</h4>
-  <div class="skillset">
-
-    {% for skill in skills.tools %}
-    <div class="item">
-
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
-    </div><!--//item-->
-    {% endfor %}
-
-  </div>
-
-  <h4>Hardware / robótica</h4>
-  <div class="skillset">
-
-    {% for skill in skills.hardware %}
-    <div class="item">
-
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
-    </div><!--//item-->
-    {% endfor %}
-
-  </div>
-
-  <h4>Otras</h4>
-  <div class="skillset">
-
-    {% for skill in skills.others %}
-    <div class="item">
-
-      
-      {% if skill.name == 'Jekyll' %}
-        <div class="banner"><span>¡Este sitio está hecho con Jekyll! :)</span></div>
-      {% endif %}
-      <h3 class="level-title {% if skill.name == 'Jekyll' %}glow{% endif %}">{{ skill.name }}</h3>
-      
-
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
-    </div><!--//item-->
-    {% endfor %}
-
-  </div>
   
 
 </section><!--//skills-section-->
