@@ -340,6 +340,16 @@ h4 {
     animation: fade 1s linear forwards;
 }
 
+.technologies {
+    margin-bottom: 2%;
+    font-size: small;
+    color: rgb(150, 145, 145);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
 
 @keyframes fade {
     0% {opacity: 0}

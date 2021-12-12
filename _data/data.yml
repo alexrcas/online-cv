@@ -56,9 +56,10 @@ career-profile:
        Sin embargo, terminé mis estudios sin apenas conocimientos sobre el mundo web.
        Quería cambiar eso, tanto por curiosidad como por la necesidad de adaptarme a las tendencias de la tecnología y el mercado.
         Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
-       Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el <b>Máster Oficial de 
-       Ingeniería Informática - Desarrollo full stack.</b> Hoy en día me alegro enormemente de haber tomado esa 
-       decisión, ya que he descubierto una nueva pasión en el <b>desarrollo full stack</b> ❤.
+       Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el
+        <a href="https://www.ull.es/masteres/ingenieria-informatica/">Máster Universitario en 
+       Ingeniería Informática - Desarrollo Full-Stack <i class="fas fa-external-link-alt"></i></a>. Hoy en día me alegro enormemente de haber tomado esa 
+       decisión, ya que he descubierto una nueva pasión en el <b>desarrollo Full-Stack</b>. <i id="fs-question" class="glow cursor-pointer fas fa-question-circle"></i>
        
        
 education:
@@ -77,30 +78,33 @@ experiences:
     - role: Ingeniero de software
       time: 2020 - Actualidad
       company: Avantic Estudio de Ingenieros
+      technologies: Java (Spring), Oracle SQL, JSP, Javascript, jQuery, Angular, Ionic, Bootstrap, Docker, Python, Jira, OpenProject
       details: |
         Diseño y desarrollo de software empresarial, para la administración pública y aplicaciones móviles, utilizando tecnologías híbridas y nativas.
         Los principales proyectos en los que he trabado son:
-        - <b>SUSTRATO</b> (Sistema Unificado para la Tramitación Pública): sistema de tramitación para la Autoridad Portuaria de Tenerife (Java Spring, Oracle SQL, Javascript)
+        - <b>SUSTRATO</b> (Sistema Unificado para la Tramitación Pública): sistema de tramitación electrónica para la Autoridad Portuaria de Santa Cruz de Tenerife.
         - <b>FredOlsen App</b>: aplicación de Fred Olsen para Android e iOS.
         - <b>Volcano</b>: desarrollo de aplicación para un puesto de venta desatendido para realizar la compra de billetes y experiencias en el teleférico del Teide.
         
     - role: Full Stack Developer
       time: 2019 - 2020
       company: MetroTenerife (Metropolitano de Tenerife, S.A.)
+      technologies: Java (Spring Boot), Oracle SQL, MariaDB, Javascript, jQuery, Python, Talend, SQL Server Integration Services, .NET, Visual Basic
       details: |
         Compaginé mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
         Mis principales actividades en la empresa fueron:
         - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b> (Sistema de Monitorización de Velocidad de Embarcado).
-          Colaboración en el desarrollo del back-office de la aplicación en todo el stack (base de datos, back-end y front-end), implementando
+          Colaboración en el desarrollo del back-office de la aplicación, implementando
           nuevas funcionalidades o corrigiendo u optimizando otras ya existentes.
-        - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero con <b>Java (Spring)</b> para sustituir diversas aplicaciones obsoletas y unificar
+        - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero para sustituir diversas aplicaciones obsoletas y unificar
           el trabajo de todos los departamentos de la empresa, así como obtener indicadores de interés para la gerencia.
-          El proyecto consistió en una fase de ETL para estudiar e integrar las diferentes fuentes de datos son SQL Integration Services, actividad que realicé bajo la supervisión de mi tutor
-          debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end que realicé con mayor autonomía.
+          El proyecto consistió en una fase de ETL para estudiar e integrar las diferentes fuentes de datos, actividad que realicé bajo la supervisión de mi tutor
+          debido a la complejidad y gran criticidad de los mismos, y una fase de desarrollo back-end y front-end que realicé con mayor autonomía.
         - <b>Desarrollo de formularios .NET</b> para la intranet de la empresa, usados cada día por todas las oficinas y sus clientes.
     - role: Becario de TI
       time: 2018 - 2019
       company: Oficina de Software Libre de la Universidad de La Laguna
+      technologies: Wordpress, PHP, Javascript, Bootstrap, Linux, Bash, Python
       details: |
         Compaginé mi último año de estudios del grado con una beca de colaboración
         en la Oficina de Software Libre. Mis tareas principales consistían en:
@@ -118,24 +122,33 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Estos son algunos de mis proyectos personales, tanto por motivos académicos como por iniciativa personal:
+      Estos son algunos de mis proyectos personales. Algunos los he realizado por motivos académicos y otros por simple diversión o como aprendizaje:
     assignments:
-      - title: Cloud-detector
-        link: "https://github.com/alexrcas/cloud-detector/blob/master/README.md"
-        tagline: "Sistema de detección de intrusos mediante machine learning basado en computación en la nube"
+      - title: Proyecto de fin de máster
+        link: "https://riull.ull.es/xmlui/handle/915/26083"
+        tagline: "Aplicación para monitorización y tratamiento de pacientes con síndrome de intestino irritable (Calificado son Sobresaliente 10)."
 
       - title: Proyecto de fin de carrera
         link: "https://riull.ull.es/xmlui/handle/915/16580"
         tagline: "Sistema de asistencia a la conducción mediante el procesamiento de imágenes procedentes de una dash cam utilizando redes neuronales
-        y técnicas de visión por computador. (Calificado con Sobresaliente 9,9)"
+        y técnicas de visión por computador (Calificado con Sobresaliente 9,9)."
+
+      - title: Cloud-detector
+        link: "https://github.com/alexrcas/cloud-detector/blob/master/README.md"
+        tagline: "Sistema de detección de intrusos mediante machine learning basado en computación en la nube."
+
+      - title: Eat-Tac-Toe
+        link: "https://eat-tac-toe.herokuapp.com/"
+        tagline: "Tres en raya multijugador con una vuelta de tuerca a las reglas."
 
       - title: GreenHouse
-        tagline: "Monitorización de temperatura, humedad, humedad del suelo y agua empleada para huertos caseros, con control inteligente automático del riego y visualización web"
+        tagline: "Monitorización de temperatura, humedad, humedad del suelo y agua empleada para huertos caseros, con control automático del riego y visualización web."
 
 publications:
     title: Cursos
     intro: |
-      Me encanta aprender nuevas habilidades y mejorar las existentes. Estos son algunos de los cursos que he hecho:
+      Me encanta aprender nuevas habilidades y mejorar las existentes, por lo que siempre estoy en continua formación y aprendizaje. Estos son algunos de los cursos
+      más destacables o que más he disfrutado:
     papers:
     
       - title: Java de novato a experto (Spring)
@@ -147,13 +160,28 @@ publications:
         link:
         authors: online
         conference: 25 horas
+
+      - title: React desde cero
+        link:
+        authors: online
+        conference: 20 horas
         
       - title: Desarrollo de apps móviles con Ionic
         link:
         authors: online
         conference: 38 horas
 
-      - title: NodeJS. MVC y APIs REST
+      - title: Spring Framework 5
+        link:
+        authors: online
+        conference: 11 horas
+
+      - title: Python Master - Django, Flask, Tkinter
+        link:
+        authors: online
+        conference: 30 horas
+
+      - title: NodeJS Bootcamp - MVC y APIs REST
         link:
         authors: online
         conference: 37 horas
@@ -187,14 +215,19 @@ publications:
         authors: Universidad de La Laguna
         conference: 20 horas (2 ECTS)
 
+      - title: Aplicaciones de escritorio con Java Swing
+        link:
+        authors: online
+        conference: 15 horas
+
       - title: Desarrollo de videojuegos en Unity
         link:
-        authors: Online
+        authors: online
         conference: 36 horas
 
       - title: Deep Learning con TensorFlow
         link: 
-        authors: Online
+        authors: online
         conference: 40 horas
 
 skills:
