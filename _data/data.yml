@@ -56,8 +56,8 @@ career-profile:
        Sin embargo, terminé mis estudios sin apenas conocimientos sobre el mundo web.
        Quería cambiar eso, tanto por curiosidad como por la necesidad de adaptarme a las tendencias de la tecnología y el mercado.
         Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
-       Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el <b>Máster Oficial de 
-       Ingeniería Informática - Desarrollo full stack.</b> Hoy en día me alegro enormemente de haber tomado esa 
+       Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el <a href="https://www.ull.es/masteres/ingenieria-informatica/">Máster Oficial de 
+       Ingeniería Informática - Desarrollo full stack.</a> Hoy en día me alegro enormemente de haber tomado esa 
        decisión, ya que he descubierto una nueva pasión en el <b>desarrollo full stack</b> ❤.
        
        
@@ -78,11 +78,11 @@ experiences:
       time: 2020 - Actualidad
       company: Avantic Estudio de Ingenieros
       details: |
-        Diseño y desarrollo de software empresarial, para la administración pública y aplicaciones móviles, utilizando tecnologías híbridas y nativas.
-        Los principales proyectos en los que he trabado son:
-        - <b>SUSTRATO</b> (Sistema Unificado para la Tramitación Pública): sistema de tramitación para la Autoridad Portuaria de Tenerife (Java Spring, Oracle SQL, Javascript)
+        Diseño y desarrollo de software empresarial y aplicaciones móviles, tanto para clientes del sector privado como la administración pública.
+        Algunos de los proyectos más relevantes en los que he trabado son:
+        - <b>SUSTRATO</b> (Sistema Unificado para la Tramitación Pública): sistema de tramitación electrónica para la Autoridad Portuaria de Sta. Cruz de Tenerife.
         - <b>FredOlsen App</b>: aplicación de Fred Olsen para Android e iOS.
-        - <b>Volcano</b>: desarrollo de aplicación para un puesto de venta desatendido para realizar la compra de billetes y experiencias en el teleférico del Teide.
+        - <b>Volcano-TPV</b>: desarrollo de aplicación para un puesto de venta desatendido para realizar la compra de billetes y experiencias en el teleférico del Teide.
         
     - role: Full Stack Developer
       time: 2019 - 2020
@@ -91,11 +91,11 @@ experiences:
         Compaginé mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
         Mis principales actividades en la empresa fueron:
         - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b> (Sistema de Monitorización de Velocidad de Embarcado).
-          Colaboración en el desarrollo del back-office de la aplicación en todo el stack (base de datos, back-end y front-end), implementando
+          Colaboración en el desarrollo del back-office de la aplicación, implementando
           nuevas funcionalidades o corrigiendo u optimizando otras ya existentes.
-        - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero con <b>Java (Spring)</b> para sustituir diversas aplicaciones obsoletas y unificar
+        - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero para sustituir diversas aplicaciones obsoletas y unificar
           el trabajo de todos los departamentos de la empresa, así como obtener indicadores de interés para la gerencia.
-          El proyecto consistió en una fase de ETL para estudiar e integrar las diferentes fuentes de datos son SQL Integration Services, actividad que realicé bajo la supervisión de mi tutor
+          El proyecto consistió en una fase de ETL para estudiar e integrar las diferentes fuentes de datos, actividad que realicé bajo la supervisión de mi tutor
           debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end que realicé con mayor autonomía.
         - <b>Desarrollo de formularios .NET</b> para la intranet de la empresa, usados cada día por todas las oficinas y sus clientes.
     - role: Becario de TI
@@ -118,11 +118,14 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Estos son algunos de mis proyectos personales, tanto por motivos académicos como por iniciativa personal:
+      Dedico gran parte de mi tiempo libre a realizar proyectos personales, tanto por entrenar y ampliar mis habilidades como por simple entretenimiento:
     assignments:
       - title: Cloud-detector
         link: "https://github.com/alexrcas/cloud-detector/blob/master/README.md"
         tagline: "Sistema de detección de intrusos mediante machine learning basado en computación en la nube"
+
+      - title: Proyecto de fin de máster
+        link: "https:"
 
       - title: Proyecto de fin de carrera
         link: "https://riull.ull.es/xmlui/handle/915/16580"
