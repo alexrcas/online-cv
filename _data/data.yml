@@ -84,7 +84,7 @@ experiences:
         Los principales proyectos en los que he trabado son:
         - <b>SUSTRATO</b> (Sistema Unificado para la Tramitación Pública): sistema de tramitación electrónica para la Autoridad Portuaria de Santa Cruz de Tenerife.
         - <b>FredOlsen App</b>: aplicación de Fred Olsen para Android e iOS.
-        - <b>Volcano</b>: desarrollo de aplicación para un puesto de venta desatendido para realizar la compra de billetes y experiencias en el teleférico del Teide.
+        - <b>Volcano-TPV</b>: desarrollo de aplicación para un puesto de venta desatendido para realizar la compra de billetes y experiencias en el teleférico del Teide.
         
     - role: Full Stack Developer
       time: 2019 - 2020
@@ -122,11 +122,14 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Estos son algunos de mis proyectos personales. Algunos los he realizado por motivos académicos y otros por simple diversión o como aprendizaje:
+      Estos son algunos de mis proyectos personales. Algunos los he realizado por motivos académicos y otros por simple diversión o aprendizaje:
     assignments:
       - title: Proyecto de fin de máster
         link: "https://riull.ull.es/xmlui/handle/915/26083"
         tagline: "Aplicación para monitorización y tratamiento de pacientes con síndrome de intestino irritable (Calificado son Sobresaliente 10)."
+
+      - title: Proyecto de fin de máster
+        link: "https:"
 
       - title: Proyecto de fin de carrera
         link: "https://riull.ull.es/xmlui/handle/915/16580"
