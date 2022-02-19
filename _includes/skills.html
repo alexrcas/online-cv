@@ -15,11 +15,7 @@
   <div class="skillset">
 
     {% for skill in skills.main-skills %}
-    <div class="item skill-item">
-
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-    </div><!--//item-->
+      <span class="badge badge-green">{{ skill.name }}</span>
     {% endfor %}
   </div>
 
@@ -28,11 +24,7 @@
   <div class="skillset">
 
     {% for skill in skills.mid-skills %}
-    <div class="item skill-item">
-
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-    </div><!--//item-->
+      <span class="badge badge-yellow">{{ skill.name }}</span>
     {% endfor %}
   </div>
 
@@ -41,11 +33,7 @@
   <div class="skillset">
 
     {% for skill in skills.low-skills %}
-    <div class="item skill-item">
-
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-    </div><!--//item-->
+      <span class="badge badge-red">{{ skill.name }}</span>
     {% endfor %}
   </div>
 

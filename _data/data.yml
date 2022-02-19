@@ -238,23 +238,27 @@ skills:
         
       - name: Java EE (Spring)
 
-      - name: Javascript
+      - name: NodeJS (Express, Moleculer, Nest)
 
-      - name: SQL
+      - name: VueJS
 
       - name: Angular
 
-      - name: NodeJS (Express, Moleculer)
+      - name: Javascript (Typescript)
 
-      - name: REST
+      - name: Ionic
 
-      - name: Git
-      
       - name: Python (Flask, Django)
+
+      - name: SQL
 
       - name: Templates (JSP, Thymeleaf, Jinja, EJS)
 
-      - name: Ionic
+      - name: APIs REST
+
+      - name: Git
+
+
     
     mid-skills:
 
@@ -262,9 +266,7 @@ skills:
 
       - name: MongoDB
 
-      - name: Vue.js
-
-      - name: React / React Native
+      - name: React
 
       - name: CSS3 (SaSS)
 
@@ -278,11 +280,11 @@ skills:
 
       - name: Android (Java)
         
-      - name: Java Swing
+      - name: Swing
 
       - name: Bash
 
-      - name: SOAP
+      - name: APIs SOAP
 
       - name: Docker
 
