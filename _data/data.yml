@@ -59,7 +59,8 @@ career-profile:
        Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el
         <a href="https://www.ull.es/masteres/ingenieria-informatica/">Máster Universitario en 
        Ingeniería Informática - Desarrollo Full-Stack <i class="fas fa-external-link-alt"></i></a>. Hoy en día me alegro enormemente de haber tomado esa 
-       decisión, ya que he descubierto una nueva pasión en el <b>desarrollo Full-Stack</b>. <i id="fs-question" class="glow cursor-pointer fas fa-question-circle"></i>
+       decisión, ya que he descubierto una nueva pasión en el <b>desarrollo Full-Stack</b>. <i class="glow fs-question cursor-pointer fas fa-question-circle"></i>
+       <span class="fs-question glow cursor-pointer">¿Qué es eso?</span>
        
        
 education:
@@ -80,8 +81,8 @@ experiences:
       company: Avantic Estudio de Ingenieros
       technologies: Java (Spring), Oracle SQL, JSP, Javascript, jQuery, Angular, Ionic, Bootstrap, Docker, Python, Git, Jira, OpenProject
       details: |
-        Diseño y desarrollo de software empresarial, para la administración pública y aplicaciones móviles, utilizando tecnologías híbridas y nativas.
-        Los principales proyectos en los que he trabado son:
+        Diseño y desarrollo de software empresarial, para la administración pública y aplicaciones móviles.
+        Los principales proyectos en los que he trabajado son:
         - <b>SUSTRATO</b> (Sistema Unificado para la Tramitación Pública): sistema de tramitación electrónica para la Autoridad Portuaria de Santa Cruz de Tenerife.
         - <b>FredOlsen App</b>: aplicación de Fred Olsen para Android e iOS.
         - <b>Volcano-TPV</b>: desarrollo de aplicación para un puesto de venta desatendido para realizar la compra de billetes y experiencias en el teleférico del Teide.
