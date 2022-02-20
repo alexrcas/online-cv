@@ -173,9 +173,9 @@ quiz:
                 del mismo aparentemente poco relacionados con el cambio realizado.
                 </p>
                 <p>
-                Por ello, con el tiempo he concluído que <b>hay una diferencia entre saber escribir código y saber construir software</b>. Cualquier persona curiosa puede hacer
-                un curso de una semana y ser capaz de escribir código. Incluso con algo más de práctica y la ayuda de internet podría escribir sus primeras aplicaciones, pero una
-                cosa muy diferente es construir una aplicación repartida en miles de ficheros, con cientos de miles de líneas de código, y ser capaz de realizar un cambio
+                Por ello, con el tiempo he concluído que <b>hay una diferencia entre saber escribir código y saber construir software</b>. Cualquier persona curiosa sin base tecnológica
+                puede escribir código en menos de una semana. Incluso con algo más de práctica y la ayuda de internet podría escribir sus primeras aplicaciones, pero una
+                cosa muy diferente es construir una aplicación con cientos de miles de líneas de código, y ser capaz de realizar un cambio
                 en la misma o incorporar una nueva funcionalidad de forma ágil y sencilla, sin tener en la cabeza el resto del código y preocuparse por qué otras partes del programa necesitan ser readaptadas
                 o sufrirán consecuencias (de hecho con proyectos de esta envergadura sería imposible para cualquier cerebro humano). Diseñar y construir software que se comporte así
                 es muy complicado y es el resultado de destilar años de conocimiento y experiencia, pero es algo que encuentro realmente hermoso y fascinante y que algún
@@ -196,7 +196,7 @@ quiz:
                 limpio es lo que te convierte en un desarrollador profesional. No existe ninguna excusa que justifique hacer menos que lo mejor que sepas.</i> - Clean Code.
                 </p>
                 - <i>Debes buscar el progreso y el crecimiento. Trabaja siempre fuera de tu zona de comfort y cuando comiences a estar cómodo, avanza y busca
-                nuevos retos. A menudo la gente confunde 10 años de experiencia, con 1 año de experiencia repetido 10 veces.</i> - Anónimo.
+                nuevos retos. A menudo la gente confunde diez años de experiencia, con un año de experiencia repetido diez veces.</i> - Anónimo.
                 </p>
                 <p>
                 - <i>La optimización prematura es la raíz de todos los males.</i> - Donald Knuth.
