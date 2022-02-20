@@ -10,15 +10,15 @@ jQuery(document).ready(function($) {
         }, 2500)
     })
 
-    $('.more-button').on('click', (e) => {
-        $('.more-courses').removeClass('hidden');
-        $('.more-button').toggleClass('hidden')
-        $('.more-courses').toggleClass('fade');
-    })
-
     $('.fs-question').on('click', (e) => {
         $('#fs-banner').removeClass('hidden');
         $('#fs-banner').toggleClass('fade');
+    })
+
+    $('.more-button').on('click', (e) => {
+        $('.more-courses').removeClass('hidden');
+        $('.more-courses').toggleClass('fade');
+        $('.more-button').toggleClass('hidden');
     })
    
 
