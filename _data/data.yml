@@ -92,7 +92,7 @@ experiences:
         de los más recientes casos de éxito del proyecto: se desarrolló una aplicación nueva en tiempo récord que reemplazó a la antigua y con ella a toda una fuente de problemas de muy graves
         consecuencias que se habían venido repitiendo de forma reiterada durante los últimos años.
         - <b>SUSTRATO</b> (Sistema Unificado para la Tramitación Pública): Aplicación web dividida en varios módulos que da soporte a las labores de tramitación
-        electrónica dentro de la Autoridad Portuaria.
+        electrónica dentro de la Autoridad Portuaria de Santa Cruz de Tenerife.
         - <b>FredOlsen App</b>: aplicación de Fred Olsen para Android e iOS.
         - <b>Volcano-TPV</b>: desarrollo de aplicación para un puesto de venta desatendido para realizar la compra de billetes y experiencias en el teleférico del Teide.
         
@@ -149,7 +149,7 @@ projects:
 
       - title: Eat-Tac-Toe
         link: "https://eat-tac-toe.herokuapp.com/"
-        tagline: "Tres en raya multijugador con una vuelta de tuerca a las reglas."
+        tagline: "Tres en raya multijugador con chat que da una vuelta de tuerca a las reglas para complicar la estrategia de juego."
 
       - title: GreenHouse
         tagline: "Monitorización de temperatura, humedad, humedad del suelo y agua empleada para huertos caseros, con control automático del riego y visualización web."
