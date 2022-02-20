@@ -1,0 +1,25 @@
+{% assign quiz = site.data.data.quiz %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-question fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ quiz.title }}
+  </h2>
+
+  <div class="intro">
+    <p>{{ quiz.intro }}</p>
+  </div><!--//intro-->
+
+  {% for question in quiz.questions %}
+  <div>
+    <h4>{{ question.title }}</h4>
+  </div>
+  <div>
+    {{ question.response }}
+  </div>
+  {% endfor %}
+
+</section><!--//section-->
