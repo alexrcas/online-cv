@@ -145,6 +145,47 @@ projects:
       - title: GreenHouse
         tagline: "Monitorización de temperatura, humedad, humedad del suelo y agua empleada para huertos caseros, con control automático del riego y visualización web."
 
+quiz:
+  title: Más sobre mí
+  intro: >
+    Si has llegado a este punto y quieres saber un poco más sobre mí:
+  
+  questions:
+    - question:
+      title: ¿En qué áreas concretas estoy más interesado últimamente y por qué?
+      response: <p>Poco a poco la <b>ingeniería del software</b> ha ido ganando mi interés. Aquella asignatura que todos considerábamos tan aburrida sobre patrones, diseños y arquitectura
+                cobró todo el sentido cuando comencé a tener mis primeras vivencias reales en el mundo laboral. Tuve la suerte de aterrizar en un lugar magnífico,
+                con un equipo de grandes expertos, y algo que me fascinó cuando comencé fue como nuestro software crecía o se adaptaba a nuevos requisitos
+                 sin apenas esfuerzo <b>ni efectos colaterales</b>. Si no eres desarrollador/a, puede que te preguntes qué es exactamente eso de los efectos colaterales.
+                 Supongamos que una persona que tiene dos casas, cada una situada en una ciudad distinta, te pide que arregles el grifo del baño de una de sus casas. Lo arreglas y todo 
+                 parece funcionar, pero de pronto esa persona te llama porque al hacerlo has roto el cuadro eléctrico de su otra casa. En la vida real esto suena disparatado pero en el 
+                 mundo del software es una situación común.
+                 </p>
+                <p>
+                Los desarrolladores tenemos algunos términos relacionados con este tema, como <i>acoplamiento</i> o <i>código spaghetti</i> (creo que este último es bastante gráfico),
+                pero la idea central es simple; el software debe ser robusto y adaptarse a los cambios con facilidad, rapidez y sin sorpresas desagradables, sobre todo en otros puntos
+                del mismo aparentemente poco relacionados con el cambio realizado.
+                </p>
+                <p>
+                Por ello, con el tiempo he concluído que <b>hay una diferencia entre saber escribir código y saber construir software</b>. Cualquier persona curiosa puede hacer
+                un curso de una semana y ser capaz de escribir código. Incluso con algo más de práctica y la ayuda de internet podría escribir sus primeras aplicaciones, pero una
+                cosa muy diferente es construir una aplicación repartida en 12.000 ficheros y con decenas o cientos de miles de líneas de código, y ser capaz de realizar un cambio
+                en la misma o incorporar una nueva funcionalidad sin tener en la cabeza el resto del código y preocuparse por qué otras partes del programa necesitan ser readaptadas
+                o sufrirán consecuencias (de hecho con proyectos de esta envergadura sería imposible para cualquier cerebro humano). Diseñar y construir software que se comporte así
+                es tremendamente complicado y es el resultado de destilar años de conocimiento y experiencia, pero es algo que encuentro realmente hermoso y fascinante y que algún
+                día me gustaría tener la capacidad de realizar.
+                </p>
+                <p>
+                Me interesan estos aspectos junto con la legibilidad y robustez del código. Si un compañero se apoya en mi trabajo y comete un error, me considero el responsable, ya que
+                un código bien diseñado debería impedir su propia utilización incorrecta. Además, una ventaja que encuentro en esta rama de conocimiento es que es independiente de la tecnología o
+                lenguaje utilizado.
+                </p>
+
+    - question:
+      title: ¿Cómo está hecho este sitio?
+      response: Esta web está hecha en <b>Jekyll (Ruby)</b> y al ser un sitio estático, está alojado gratuitamente en un repositorio de <b>Github</b>.
+
+
 publications:
     title: Cursos
     intro: |
@@ -316,5 +357,5 @@ skills:
 
 
 footer: >
-    Este sitio es una modificación enriquecida de una estructura creada y compartida libremente por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.
+    Aunque el código de este sitio ya dista mucho de su primera versión, esta web partió de una estructura creada y compartida libremente por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.
     Usa, reescribe, comparte y vive el código libre, pero ¡no olvides agradecer y mencionar a la fuente original ❤!
