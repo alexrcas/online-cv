@@ -14,6 +14,12 @@ jQuery(document).ready(function($) {
         $('#fs-banner').removeClass('hidden');
         $('#fs-banner').toggleClass('fade');
     })
+    
+    $('.more.button').on('click', (e) => {
+    $('.more-courses').removeClass('hidden');
+    $('.more-courses').toggleClass('fade');
+    $('.more-button').toggleClass('hidden');
+})
    
 
 });
