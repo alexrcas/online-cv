@@ -15,7 +15,7 @@ jQuery(document).ready(function($) {
         $('#fs-banner').toggleClass('fade');
     })
     
-    $('.more.button').on('click', (e) => {
+    $('.more-button').on('click', (e) => {
     $('.more-courses').removeClass('hidden');
     $('.more-courses').toggleClass('fade');
     $('.more-button').toggleClass('hidden');
