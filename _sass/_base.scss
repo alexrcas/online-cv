@@ -372,21 +372,21 @@ h4 {
 }
 
 .badge {
-    font-size: medium;
-    margin-bottom: 10px;
+    font-size: medium !important;
+    margin-bottom: 10px !important;
 }
 
 .badge-green {
-    background-color: #49AE61;
-    opacity: 0.6;
+    background-color: #49AE61 !important;
+    opacity: 0.6 !important;
 }
 
 .badge-yellow {
-    background-color: #D8D061;
-    opacity: 0.6;
+    background-color: #D8D061 !important;
+    opacity: 0.6 !important;
 }
 
 .badge-red {
-    background-color: #D85858;
-    opacity: 0.6;
+    background-color: #D85858 !important;
+    opacity: 0.6 !important;
 }
