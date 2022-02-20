@@ -1,0 +1,17 @@
+I"~<p>Diseño y desarrollo de software empresarial, para la administración pública y aplicaciones móviles.
+Los principales proyectos en los que he trabajado son:</p>
+<ul>
+  <li><b>PLAE</b> (Plataforma de Administración Electrónica): Sistema completo de administración electrónica sobre el que se apoya <b>SUSTRATO</b>. Consta de numerosos subsistemas y
+aplicaciones como consolas de administración, registro de entrada, portafirmas y otro gran número de módulos. PLAE ha sido un reto duro pero apasionante y muy satisfactorio:
+se trata de un proyecto heredado, grande y muy complejo, que presentaba numerosos y graves problemas e incidencias tanto a nivel técnico como funcional.
+El objetivo es <i>cambiar los motores con el avión en el aire</i>, ya que su funcionamiento es crítico y no puede verse
+interrumpido. Poco a poco, se reescriben piezas y aplicaciones que van sustituyendo a las antiguas, las cuales van siendo desactivadas. En algunas de estas aplicaciones, como
+el <b>Consejo de Administración</b> se me ha depositado cada vez un mayor grado de confianza y autonomía. Con la colaboración de todo el equipo, esta aplicación es un ejemplo
+de los últimos casos de éxito del proyecto: se desarrolló una aplicación nueva en tiempo récord que descabezó a la antigua y con ella toda una fuente de problemas de muy graves
+consecuencias que se habían venido repitiendo de forma reiterada durante los últimos años.</li>
+  <li><b>SUSTRATO</b> (Sistema Unificado para la Tramitación Pública): Aplicación web dividida en varios módulos que da soporte a las labores de tramitación
+electrónica dentro de la Autoridad Portuaria.</li>
+  <li><b>FredOlsen App</b>: aplicación de Fred Olsen para Android e iOS.</li>
+  <li><b>Volcano-TPV</b>: desarrollo de aplicación para un puesto de venta desatendido para realizar la compra de billetes y experiencias en el teleférico del Teide.</li>
+</ul>
+:ET
