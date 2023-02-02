@@ -79,7 +79,7 @@ experiences:
     - role: Ingeniero de software - Desarrollador Full Stack
       time: 2020 - Actualidad
       company: Avantic Estudio de Ingenieros
-      technologies: Java (Spring), Oracle SQL, JSP, Javascript, jQuery, Angular, Ionic, Bootstrap, Docker, Python, Git, Jira, OpenProject
+      technologies: Java (Spring, Quarkus), Oracle SQL, JSP, Javascript, jQuery, Angular, Ionic, Bootstrap, Docker, Python, Git, Jira, OpenProject
       details: |
         Diseño y desarrollo de software empresarial, para la administración pública y aplicaciones móviles.
         Los principales proyectos en los que he trabajado son:
@@ -89,8 +89,12 @@ experiences:
         El objetivo es <i>cambiar los motores con el avión en el aire</i>, ya que su funcionamiento es crítico y no puede verse
         interrumpido. Poco a poco, se reescriben piezas y aplicaciones que van sustituyendo a las antiguas, las cuales van siendo desactivadas. En algunas de estas aplicaciones, como
         el <b>Consejo de Administración</b>, se me ha depositado cada vez un mayor grado de confianza y autonomía. Con la colaboración de todo el equipo, este último módulo es un ejemplo
-        de los más recientes casos de éxito del proyecto: se desarrolló una aplicación nueva en tiempo récord que reemplazó a la antigua y con ella a toda una fuente de problemas de muy graves
-        consecuencias que se habían venido repitiendo de forma reiterada durante los últimos años.
+        de los varios casos de éxito del proyecto: se desarrolló una aplicación nueva en tiempo récord que reemplazó a la antigua y con ella a toda una fuente de problemas de muy graves
+        consecuencias que se habían venido repitiendo durante los últimos años.
+        - <b>Repositorio Documental</b>: Se trata de otro subproyecto intenso pero muy emocionante que terminó como otro gran éxito. Se diseñó y desarrolló un repositorio documental
+        para reemplazar <b>Alfresco</b>. A continuación se desarrolló un migrador que necesitó de técnicas de paralelización debido al gran volumen de datos. La migración y el cambio
+        de un sistema por otro se realizó sin detener los sistemas y de forma totalmente transparente para los usuarios. Además el objetivo fue conseguido dentro de unos plazos muy
+        estrictos que no dejaban margen de error.
         - <b>SUSTRATO</b> (Sistema Unificado para la Tramitación Pública): Aplicación web dividida en varios módulos que da soporte a las labores de tramitación
         electrónica dentro de la Autoridad Portuaria de Santa Cruz de Tenerife.
         - <b>FredOlsen App</b>: aplicación de Fred Olsen para Android e iOS.
@@ -132,7 +136,8 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Estos son algunos de mis proyectos; algunos académicos y otros personales, que realizo por simple aprendizaje o diversión.
+      Estos son algunos de mis proyectos; algunos académicos y otros personales, que realizo por simple aprendizaje o diversión. Algunos de ellos estaban desplegados y accesibles
+      públicamente en la web, pero la plataforma que usaba ha cambiado su política y ya no ofrece un plan gratuito.
     assignments:
       - title: Proyecto de fin de máster
         link: "https://riull.ull.es/xmlui/handle/915/26083"
@@ -148,8 +153,12 @@ projects:
         tagline: "Sistema de detección de intrusos mediante machine learning basado en computación en la nube."
 
       - title: Eat-Tac-Toe
-        link: "https://eat-tac-toe.herokuapp.com/"
+        link: "https://github.com/alexrcas/TicTacToe"
         tagline: "Tres en raya multijugador con chat que da una vuelta de tuerca a las reglas para complicar la estrategia de juego."
+
+      - title: kut1t
+        link: "https://github.com/alexrcas/kut1t"
+        tagline: "Acortador de enlaces. Un proyecto sencillo pero muy interesante, ya que siempre me había preguntado cómo funcionan."
 
       - title: GreenHouse
         tagline: "Monitorización de temperatura, humedad, humedad del suelo y agua empleada para huertos caseros, con control automático del riego y visualización web."
@@ -169,17 +178,17 @@ quiz:
                  </p>
                 <p>
                 Los desarrolladores tenemos algunos términos relacionados con este tema, como <i>acoplamiento</i> o <i>código spaghetti</i> (creo que este último es bastante gráfico),
-                pero la idea central es simple; el software debe ser robusto y adaptarse a los cambios con facilidad, rapidez y sin sorpresas desagradables, sobre todo en otros puntos
-                del mismo aparentemente poco relacionados con el cambio realizado.
+                pero la idea central es simple; el software debe ser robusto y adaptarse a los cambios con facilidad, rapidez y sin sorpresas desagradables. Un cambio sencillo en una
+                aplicación no debería manifestarse en una explosión en otro punto de la aplicación poco relacionado con dicho cambio (o incluso en otra parte del sistema).
                 </p>
                 <p>
                 Por ello, con el tiempo he concluído que <b>hay una diferencia entre saber escribir código y saber construir software</b>. Cualquier persona curiosa sin base tecnológica
                 puede escribir código en menos de una semana. Incluso con algo más de práctica y la ayuda de internet podría escribir sus primeras aplicaciones, pero una
                 cosa muy diferente es construir una aplicación con cientos de miles de líneas de código, y ser capaz de realizar un cambio
                 en la misma o incorporar una nueva funcionalidad de forma ágil y sencilla, sin tener en la cabeza el resto del código y preocuparse por qué otras partes del programa necesitan ser readaptadas
-                o sufrirán consecuencias (de hecho con proyectos de esta envergadura sería imposible para cualquier cerebro humano). Diseñar y construir software que se comporte así
-                es muy complicado y es el resultado de destilar años de conocimiento y experiencia, pero es algo que encuentro realmente hermoso y fascinante y que algún
-                día me gustaría tener la capacidad de realizar. Además, estos conceptos son independientes de las tecnologías o lenguajes utilizados, por lo que puedo
+                o sufrirán consecuencias. Diseñar y construir software de esta manera
+                es muy complicado y es el resultado de destilar años de conocimiento y experiencia, pero es algo que encuentro realmente hermoso y que espero ir aprendiendo
+                con el paso del tiempo a lo largo de toda mi carrera. Además, estos conceptos son independientes de las tecnologías o lenguajes utilizados, por lo que puedo
                 estudiarlos y aplicarlos continuamente sin importar las herramientas concretas que esté usando en un momento dado.
                 </p>
 
@@ -217,14 +226,19 @@ quiz:
 publications:
     title: Cursos
     intro: |
-      Me encanta aprender nuevas habilidades y mejorar las existentes, por lo que siempre estoy en continua formación y aprendizaje. Estos son algunos de los cursos
-      más destacables o que más he disfrutado:
+      Me encanta aprender nuevas habilidades y mejorar las existentes, por lo que siempre estoy en continua formación y aprendizaje. No siempre todos los cursos que hago
+      son completamente de mi agrado, pero también sé que hay conocimientos y competencias que debo adquirir si quiero ser mejor profesional.
     papers:
     
       - title: Java de novato a experto (Spring)
         link:
         authors: online
         conference: 82 horas
+
+      - title: La administración electrónica
+        link:
+        authors: Universidad Nebrija
+        conference: 150 horas (6 ECTS)
 
       - title: VueJS desde cero
         link:
@@ -307,7 +321,7 @@ skills:
 
     main-skills:
         
-      - name: Java EE (Spring)
+      - name: Java EE (Spring, Quarkus)
 
       - name: NodeJS (Express, Moleculer, Nest)
 
