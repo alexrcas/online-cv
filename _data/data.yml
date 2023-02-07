@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Sobre mí
     summary: |
-      Nací en <b>Tenerife</b> en el año <b>1993</b> y me pasé la infancia rompiendo todos lo que
+      Nací en <b>Tenerife</b> en el año <b>1993</b> y me pasé la infancia rompiendo todo lo que
       llegaba a mis manos para intentar comprender su funcionamiento.
        Soy muy <b>feliz</b> por poder dedicarme a lo que siempre
        había querido. <b>Amo mi profesión</b>: no sabría dónde trazar una línea que la separase de mi hobby y cada domingo cuando 
@@ -141,7 +141,7 @@ projects:
     assignments:
       - title: Proyecto de fin de máster
         link: "https://riull.ull.es/xmlui/handle/915/26083"
-        tagline: "Aplicación para monitorización y tratamiento de pacientes con síndrome de intestino irritable (Calificado son Sobresaliente 10)."
+        tagline: "Aplicación para monitorización y tratamiento de pacientes con síndrome de intestino irritable (Calificado con Sobresaliente 10)."
 
       - title: Proyecto de fin de carrera
         link: "https://riull.ull.es/xmlui/handle/915/16580"
@@ -173,13 +173,13 @@ quiz:
       title: ¿En qué áreas concretas estoy más interesado últimamente y por qué?
       response: <p>Poco a poco la <b>ingeniería del software</b> ha ido ganando mi interés. Aquella asignatura que todos considerábamos tan aburrida sobre patrones, diseños y arquitectura
                 cobró todo el sentido cuando comencé a tener mis primeras vivencias reales en el mundo laboral. Tuve la suerte de aterrizar en un lugar magnífico,
-                con un equipo de grandes expertos, y algo que me fascinó cuando comencé fue como nuestro software crecía o se adaptaba a nuevos requisitos
+                con un equipo de grandes expertos, y algo que me fascinó fue como nuestro software crecía y se adaptaba a nuevos requisitos
                  sin apenas esfuerzo <b>ni efectos colaterales</b>.
                  </p>
                 <p>
                 Los desarrolladores tenemos algunos términos relacionados con este tema, como <i>acoplamiento</i> o <i>código spaghetti</i> (creo que este último es bastante gráfico),
                 pero la idea central es simple; el software debe ser robusto y adaptarse a los cambios con facilidad, rapidez y sin sorpresas desagradables. Un cambio sencillo en una
-                aplicación no debería manifestarse en una explosión en otro punto de la aplicación poco relacionado con dicho cambio (o incluso en otra parte del sistema).
+                aplicación no debería manifestarse en un error en otro punto de la aplicación poco relacionado con dicho cambio (o incluso en otra parte del sistema).
                 </p>
                 <p>
                 Por ello, con el tiempo he concluído que <b>hay una diferencia entre saber escribir código y saber construir software</b>. Cualquier persona curiosa sin base tecnológica
@@ -337,7 +337,7 @@ skills:
 
       - name: SQL
 
-      - name: Templates (JSP, Thymeleaf, Jinja, EJS)
+      - name: Templates (JSP, Freemarker, Thymeleaf, Jinja, EJS)
 
       - name: APIs REST
 
@@ -354,8 +354,6 @@ skills:
       - name: React
 
       - name: Microservicios
-
-      - name: Quarkus
 
       - name: CSS3 (SaSS)
 
