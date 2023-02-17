@@ -88,9 +88,7 @@ experiences:
         se trata de un proyecto heredado, grande y muy complejo, que presentaba numerosos y graves problemas e incidencias tanto a nivel técnico como funcional.
         El objetivo es <i>cambiar los motores con el avión en el aire</i>, ya que su funcionamiento es crítico y no puede verse
         interrumpido. Poco a poco, se reescriben piezas y aplicaciones que van sustituyendo a las antiguas, las cuales van siendo desactivadas. En algunas de estas aplicaciones, como
-        el <b>Consejo de Administración</b>, se me ha depositado cada vez un mayor grado de confianza y autonomía. Con la colaboración de todo el equipo, este último módulo es un ejemplo
-        de los varios casos de éxito del proyecto: se desarrolló una aplicación nueva en tiempo récord que reemplazó a la antigua y con ella a toda una fuente de problemas de muy graves
-        consecuencias que se habían venido repitiendo durante los últimos años.
+        el <b>Consejo de Administración</b>, o el <b>Repositorio documental</b> se me ha ido depositando cada vez un mayor grado de autonomía.
         - <b>Repositorio Documental</b>: Se trata de otro subproyecto intenso pero muy emocionante que terminó como otro gran éxito. Se diseñó y desarrolló un repositorio documental
         para reemplazar <b>Alfresco</b>. A continuación se desarrolló un migrador que necesitó de técnicas de paralelización debido al gran volumen de datos. La migración y el cambio
         de un sistema por otro se realizó sin detener los sistemas y de forma totalmente transparente para los usuarios. Además el objetivo fue conseguido dentro de unos plazos muy
