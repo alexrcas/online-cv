@@ -139,6 +139,11 @@ projects:
       Estos son algunos de mis proyectos; algunos académicos y otros personales, que realizo por simple aprendizaje o diversión. Algunos de ellos estaban desplegados y accesibles
       públicamente en la web, pero la plataforma que usaba ha cambiado su política y ya no ofrece un plan gratuito.
     assignments:
+
+      - title: Portafirmas digital
+        link: "https://github.com/alexrcas/portafirmas"
+        tagline: "Portafirmas digital integrado con Autofirm@."
+
       - title: Proyecto de fin de máster
         link: "https://riull.ull.es/xmlui/handle/915/26083"
         tagline: "Aplicación para monitorización y tratamiento de pacientes con síndrome de intestino irritable (Calificado con Sobresaliente 10)."
