@@ -142,6 +142,10 @@ projects:
         link: "https://github.com/alexrcas/portafirmas"
         tagline: "Portafirmas digital integrado con Autofirm@."
 
+      - title: IOMapper
+        link: "https://github.com/alexrcas/iomapper"
+        tagline: "Generador de clases en Java a partir de un diagrama de relación hecho en Draw.io, una pequeña herramienta que me ayuda a agilizar el comienzo de mis desarrollos."
+
       - title: Proyecto de fin de máster
         link: "https://riull.ull.es/xmlui/handle/915/26083"
         tagline: "Aplicación para monitorización y tratamiento de pacientes con síndrome de intestino irritable (Calificado con Sobresaliente 10)."
