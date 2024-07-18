@@ -84,15 +84,14 @@ experiences:
         Diseño y desarrollo de software empresarial, para la administración pública y aplicaciones móviles.
         Los principales proyectos en los que he trabajado son:
         - <b>PLAE</b> (Plataforma de Administración Electrónica): Sistema completo de administración electrónica sobre el que se apoya <b>SUSTRATO</b>. Consta de numerosos subsistemas y
-        aplicaciones como consolas de administración, registro de entrada, portafirmas y otro gran número de módulos. PLAE ha sido un reto duro pero apasionante y muy satisfactorio:
+        aplicaciones como consolas de administración, registro de entrada, sede electrónica, portafirmas y otro gran número de módulos. PLAE ha sido un reto duro pero apasionante y muy satisfactorio:
         se trata de un proyecto heredado, grande y muy complejo, que presentaba numerosos y graves problemas e incidencias tanto a nivel técnico como funcional.
         El objetivo es <i>cambiar los motores con el avión en el aire</i>, ya que su funcionamiento es crítico y no puede verse
-        interrumpido. Poco a poco, se reescriben piezas y aplicaciones que van sustituyendo a las antiguas, las cuales van siendo desactivadas. En algunas de estas aplicaciones, como
-        el <b>Consejo de Administración</b>, o el <b>Repositorio documental</b> se me ha ido depositando cada vez un mayor grado de autonomía.
-        - <b>Repositorio Documental</b>: Se trata de otro subproyecto intenso pero muy emocionante que terminó como otro gran éxito. Se diseñó y desarrolló un repositorio documental
-        para reemplazar <b>Alfresco</b>. A continuación se desarrolló un migrador que necesitó de técnicas de paralelización debido al gran volumen de datos. La migración y el cambio
-        de un sistema por otro se realizó sin detener los sistemas y de forma totalmente transparente para los usuarios. Además el objetivo fue conseguido dentro de unos plazos muy
-        estrictos que no dejaban margen de error.
+        interrumpido. Poco a poco, se reescriben piezas y aplicaciones que van sustituyendo a las antiguas, las cuales van siendo desactivadas. Uno de los varios casos de éxito dentro de
+        este proyecto es el <b>Repositorio Documental</b>: se diseñó y desarrolló un sistema desde cero
+        para reemplazar <b>Alfresco</b>, un conocido gestor documental comercial. A continuación se desarrolló un migrador que necesitó de técnicas de paralelización debido al gran volumen de datos. La migración y el cambio
+        de un sistema por otro se realizó sin detener los sistemas y de forma totalmente transparente para los usuarios. El objetivo fue conseguido dentro de unos plazos muy
+        estrictos que no dejaban margen de error y a día de hoy no se registran incidencias en este sistema frente a las múltiples que generaba el anterior.
         - <b>SUSTRATO</b> (Sistema Unificado para la Tramitación Pública): Aplicación web dividida en varios módulos que da soporte a las labores de tramitación
         electrónica dentro de la Autoridad Portuaria de Santa Cruz de Tenerife.
         - <b>FredOlsen App</b>: aplicación de Fred Olsen para Android e iOS.
