@@ -131,8 +131,7 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Estos son algunos de mis proyectos; algunos académicos y otros personales, que realizo por simple aprendizaje o diversión. Algunos de ellos estaban desplegados y accesibles
-      públicamente en la web, pero la plataforma que usaba ha cambiado su política y ya no ofrece un plan gratuito.
+      Estos son algunos de mis proyectos, ya sean académicos o personales, creados por curiosidad, aprendizaje o simplemente por diversión.
     assignments:
 
       - title: Portafirmas digital
@@ -168,33 +167,29 @@ projects:
         tagline: "Monitorización de temperatura, humedad, humedad del suelo y agua empleada para huertos caseros, con control automático del riego y visualización web."
 
 quiz:
-  title: Un poco más de información
+  title: Un poco más sobre mí
   intro: >
 
   
   questions:
     - question:
       title: ¿En qué áreas concretas estoy más interesado últimamente y por qué?
-      response: <p>Poco a poco la <b>ingeniería del software</b> ha ido ganando mi interés. Aquella asignatura que todos considerábamos tan aburrida sobre patrones, diseños y arquitectura
-                cobró todo el sentido cuando comencé a tener mis primeras vivencias reales en el mundo laboral. Tuve la suerte de aterrizar en un lugar magnífico,
-                con un equipo de grandes expertos, y algo que me fascinó fue como nuestro software crecía y se adaptaba a nuevos requisitos
-                 sin apenas esfuerzo <b>ni efectos colaterales</b>.
-                 </p>
-                <p>
-                Los desarrolladores tenemos algunos términos relacionados con este tema, como <i>acoplamiento</i> o <i>código spaghetti</i> (creo que este último es bastante gráfico),
-                pero la idea central es simple; el software debe ser robusto y adaptarse a los cambios con facilidad, rapidez y sin sorpresas desagradables. Un cambio sencillo en una
-                aplicación no debería manifestarse en un error en otro punto de la aplicación poco relacionado con dicho cambio (o incluso en otra parte del sistema).
+      response: <p>
+                Poco a poco, la <b>ingeniería del software</b> ha ido captando cada vez más mi interés. Aquella asignatura que muchos considerábamos aburrida, llena de patrones, diseños y arquitectura, cobró todo su sentido cuando tuve mis primeras experiencias en el mundo laboral.  
+                Tuve la suerte de aterrizar en un entorno excepcional, rodeado de grandes expertos, y algo que me fascinó fue ver cómo nuestro software crecía y se adaptaba a nuevos requisitos con facilidad, <b>sin apenas esfuerzo ni efectos colaterales</b>.
                 </p>
                 <p>
-                Por ello, con el tiempo he concluído que <b>hay una diferencia entre saber escribir código y saber construir software</b>. Cualquier persona curiosa sin base tecnológica
-                puede escribir código en menos de una semana. Incluso con algo más de práctica y la ayuda de internet podría escribir sus primeras aplicaciones, pero una
-                cosa muy diferente es construir una aplicación con cientos de miles de líneas de código, y ser capaz de realizar un cambio
-                en la misma o incorporar una nueva funcionalidad de forma ágil y sencilla, sin tener en la cabeza el resto del código y preocuparse por qué otras partes del programa necesitan ser readaptadas
-                o sufrirán consecuencias. Diseñar y construir software de esta manera
-                es muy complicado y es el resultado de destilar años de conocimiento y experiencia, pero es algo que encuentro realmente hermoso y que espero ir aprendiendo
-                con el paso del tiempo a lo largo de toda mi carrera. Además, estos conceptos son independientes de las tecnologías o lenguajes utilizados, por lo que puedo
-                estudiarlos y aplicarlos continuamente sin importar las herramientas concretas que esté usando en un momento dado.
+                En el mundo del desarrollo, existen términos como <i>acoplamiento</i> o <i>código spaghetti</i> (este último bastante gráfico), pero la idea central es simple: el software debe ser robusto y evolucionar con facilidad, rapidez y sin sorpresas desagradables.  
+                Un cambio sencillo en una aplicación no debería provocar errores inesperados en otras partes del sistema, especialmente en áreas que, en principio, no guardan relación con la modificación realizada.
                 </p>
+                <p>
+                Con el tiempo, he llegado a una conclusión clave: <b>hay una gran diferencia entre escribir código y construir software</b>.  
+                Cualquier persona curiosa, sin una base tecnológica, puede aprender a programar en menos de una semana. Con algo más de práctica y la ayuda de internet, incluso podría desarrollar sus primeras aplicaciones.  
+                Sin embargo, construir una aplicación con cientos de miles de líneas de código, mantenerla escalable y realizar cambios o incorporar nuevas funcionalidades sin temor a romper otras partes del sistema es un reto completamente distinto.  
+                Diseñar y desarrollar software de esta manera requiere destilar años de conocimiento y experiencia, pero es un proceso que encuentro realmente fascinante y que espero seguir perfeccionando a lo largo de toda mi carrera.  
+                Además, estos principios trascienden las tecnologías y lenguajes específicos, lo que me permite estudiarlos y aplicarlos continuamente, sin importar las herramientas que utilice en cada momento.
+                </p>
+
 
     - question:
       title: Algunas de mis citas favoritas
